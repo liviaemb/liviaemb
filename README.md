@@ -1,1 +1,1 @@
-Projeto do curso de git!
+Welcome to my GitHub :) 
